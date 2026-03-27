@@ -21,9 +21,8 @@ OS: Ubuntu 22.04 LTS
 
 ROS Version: ROS2 Humble
 
-Platform: TurtleBot3 (Waffle Pi / Burger)
 
-Language: Python 3.10 / C++
+Language: Python 3.10
 
 실행 방법
 패키지를 빌드하고 실행하려면 아래 명령어를 사용하세요.
