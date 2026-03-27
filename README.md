@@ -2,7 +2,7 @@
 
 (ros_lidar_project)
 
-2026. 03. 26
+
 
 1. 벽 충돌 방지 및 LiDAR 로직 개선
 Obstacle Detection Fix: LiDAR 데이터가 벽을 제대로 인식하지 못해 발생하던 충돌 문제를 해결했습니다.
