@@ -27,7 +27,7 @@ class LidarMockPublisher(Node):
         
         # 랜덤하게 장애물 상황 만들기
         ranges = [3.5] * 360
-        pattern = random.choice(['front', 'left', 'right', 'clear'])
+        pattern = random.choice(['front', 'left', 'right', 'clear', 'clear', 'clear'])
         
         if pattern == 'front':
             for i in range(350, 360): ranges[i] = 0.4
