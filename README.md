@@ -1,4 +1,5 @@
 #  LIDAR_MOCK: ROS2 & Data Pipeline Project
+(2026.03.26 GIT 확인)
 
 > LiDAR 모의 데이터를 생성하고, ROS2 환경에서 주행 액션을 결정한 뒤  
 > MySQL DB에 적재하여 AI 학습용 데이터셋(361 columns)으로 가공하는 전체 파이프라인 프로젝트
