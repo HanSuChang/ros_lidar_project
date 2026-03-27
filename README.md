@@ -36,8 +36,11 @@
 ##  전체 파이프라인 흐름
 
 LiDAR 데이터 생성 → ROS2 토픽 발행 → 주행 액션 결정
+
        ↓
+       
   MySQL DB 적재
+  
        ↓
   JSON 전처리 → 361 Column CSV 변환 → AI 학습 데이터셋
 
